@@ -80,7 +80,7 @@ export default () => {
 					<p>Dear Maya,</p>
 					<p>Happy Valentines Day!</p>
 					<p>You are so special to me, I love you so much.</p>
-					<p>I'm exicted about spending the rest of my life with you officially beginning.</p>
+					<p>I'm excited about spending the rest of my life with you officially beginning.</p>
 					<p>I promise to cherish you forever.</p>
 					<p>Love Samual. {`<3`}</p>
 				</div>
